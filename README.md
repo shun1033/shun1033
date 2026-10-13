@@ -13,9 +13,13 @@
 
 ## Языки
 <img src="images.png" width="32" alt="Python" />
-<img src="images(2).png" width="32" alt="C" />
+<img src="im.png" width="32" alt="C" />
 
-
+## Статистика
+<!-- Карточка с активностью -->
+![GitHub Streak](https://streak-stats.demolab.com?user=shun1033&theme=radical)
+<!-- Карточка с языками программирования -->
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shun1033&layout=compact&theme=radical)
 
 
 
