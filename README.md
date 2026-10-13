@@ -13,6 +13,8 @@
 
 ## Языки
 <img src="images.png" width="32" alt="Python" />
+<img src="images(2).png" width="32" alt="Python" />
+
 
 
 
