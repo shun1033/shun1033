@@ -12,7 +12,8 @@
 | Аниме | Анимешник с 10-ти летним стажем(не знаю хорошо это или плохо, наверное хорошо) |
 
 ## Языки
-<img width="47" height="47" alt="Python" src="https://github.com" />
+<img src="images.png" width="32" alt="Python" />
+
 
 
 
